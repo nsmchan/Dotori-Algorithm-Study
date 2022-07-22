@@ -51,3 +51,21 @@
    - 파일 수정
       - `fix(문제카테고리/문제이름/이름): 소스파일`
       - `fix(문제카테고리/문제이름/이름): 설명`
+
+
+# 잔디
+<!-- BackJoon Tier -->
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=dbsxodud01&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=min077&theme=warm)
+
+
+
+# BackJoon Tier
+<!-- BOX -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbsxodud01)](https://solved.ac/dbsxodud01)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=min077)](https://solved.ac/min077)
+
+
+<!-- MINI -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbsxodud01)](https://solved.ac/dbsxodud01)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=min077)](https://solved.ac/min077)
