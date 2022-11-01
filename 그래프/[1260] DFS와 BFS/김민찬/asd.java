@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Collections;
-public class main{
+public class asd{
 	static int N;
 	static int M;
 	static int V;
