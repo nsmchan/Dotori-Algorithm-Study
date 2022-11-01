@@ -5,7 +5,7 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.util.*;
 
-public class S2644{
+public class dfs{
 
     // 인접리스트
     // visited[]
