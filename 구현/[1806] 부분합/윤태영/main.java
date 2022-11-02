@@ -3,7 +3,7 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class main {
     static int N;// 수열 요소 개수
     static int S; // 목표 합
     static int[] nums;
