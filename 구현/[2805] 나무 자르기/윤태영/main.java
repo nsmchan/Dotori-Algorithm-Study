@@ -3,7 +3,7 @@ import java.io.FileInputStream;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 import java.util.Arrays;
-public class Main {
+public class main {
     static int N;// 나무의 수
     static int M;// 필요한 나무의 길이
     static int lengths[]; //각각 나무의 길이
