@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Main {
+public class main {
 
     static boolean num[];
     static int sum,div;
