@@ -17,8 +17,16 @@ public class boj1697 {
         int n = Integer.parseInt(st.nextToken());
         int k = Integer.parseInt(st.nextToken());
 
-        visited = new boolean[100000];
-        line = new int[100000];
+        // 같으면 종료
+        if(n==k){   
+            bw.write(0+" ");
+            bw.close();
+            br.close();
+            return;
+        }
+
+        visited = new boolean[100001];
+        line = new int[100001];
         for(int i=0;i<line.length;i++){
             line[i]=0;
         }
@@ -36,13 +44,11 @@ public class boj1697 {
         line[n]=sec;
         while(!q.isEmpty()){
 
-            if(visited[target]==true) break;
             int now = q.poll();
-            
             for(int i=0;i<3;i++){
                 int now2=0;
                 if(i==0) {
-                    if(now==1) continue;
+                    if(now==0) continue; // 인덱스 음수
                     now2 = now-1;
                 }
                 else if(i==1){
@@ -52,7 +58,9 @@ public class boj1697 {
                 else if(i==2){
                     now2=now*2;
                 }
-                if(!visited[now2]){
+                // 배열크기줄이고 조건추가
+                if(now2>=100001) continue;
+                if(!visited[now2] ){
                     q.add(now2);
                     visited[now2]=true;
                     line[now2]=line[now]+1;
