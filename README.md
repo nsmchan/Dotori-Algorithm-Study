@@ -69,3 +69,6 @@
 <!-- MINI -->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dbsxodud01)](https://solved.ac/dbsxodud01)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=min077)](https://solved.ac/min077)
+
+<br>
+더 꾸며봐 태영아
