@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dotori%20Algorithm&fontSize=90)
 
 # Algoritm Study
-
-
+ 
+   
 ## :raised_hand: 참가인원 
 * 김민찬  ![java](https://img.shields.io./badge/java-007396.svg?style=for-the-badfe&logo=java&logoColor=white)
 * 윤태영  ![java](https://img.shields.io./badge/java-007396.svg?style=for-the-badfe&logo=java&logoColor=white)
@@ -38,7 +38,7 @@
 - 파일경로설정
    - `주제->[문제번호]문제이름->참여자 이름`  
    
-   
+    
 - 먼저 풀 경우 [Link](https://github.com/brsss123/Dotori-Algorithm-Study/tree/main/%EA%B5%AC%ED%98%84/%5B1026%5D%20%EB%B3%B4%EB%AC%BC)와 같이 Readme.md를 작성
 
 
