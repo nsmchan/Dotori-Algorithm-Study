@@ -71,4 +71,4 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=min077)](https://solved.ac/min077)
 
 <br>
-더 꾸며봐 태영아
+더 꾸며봐 태영아 zz
