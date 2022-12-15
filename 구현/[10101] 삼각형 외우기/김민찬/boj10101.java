@@ -1,6 +1,3 @@
-package 김민찬;
-
-
 import java.io.IOException;
 import java.io.BufferedWriter;
 import java.io.BufferedReader;
