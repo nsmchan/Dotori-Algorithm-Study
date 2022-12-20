@@ -34,7 +34,7 @@ public class Main {
         bw.write(pos[0]+" "+pos[1]);
         bw.flush();
 
-        
+          
 
     }
 }
