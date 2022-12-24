@@ -19,7 +19,7 @@ public class Main {
             String a = st.nextToken();
             int b = Integer.parseInt(st.nextToken());
             if(a.equals("E")){
-                pos[0]=pos[0]+dx[0]*b;
+                pos[0]=pos[0]+dx[0]*b; 
             }
             else if(a.equals("W")){
                 pos[0]=pos[0]+dx[1]*b;   
