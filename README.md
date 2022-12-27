@@ -71,6 +71,9 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=min077)](https://solved.ac/min077)
 
 <br>
+
+![nsmchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsmchan&show_icons=true&theme=dark)   
+
 더 꾸며봐 태영아 zz
  
 더꾸미라고~
