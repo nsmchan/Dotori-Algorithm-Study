@@ -72,7 +72,8 @@
 
 <br>
 
-![nsmchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsmchan&show_icons=true&theme=dark)   
+![김민찬's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsmchan&show_icons=true&theme=dark)   
+![윤태영's GitHub stats](https://github-readme-stats.vercel.app/api?username=brsss&show_icons=true&theme=dark)   
 
 더 꾸며봐 태영아 zz
  
