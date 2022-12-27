@@ -23,7 +23,7 @@
     
 * 알고리즘은 [분류](https://www.acmicpc.net/problem/tags)에서 각각 유형별로 풀도록 합니다 
    
-   
+      
  |주제|내용|
  |:---:|:---:|
  |알고리즘 기초 | 구현, 완전탐색|
@@ -37,7 +37,7 @@
 
 - 파일경로설정
    - `주제->[문제번호]문제이름->참여자 이름`  
-   
+    
          
 - 먼저 풀 경우 [Link](https://github.com/brsss123/Dotori-Algorithm-Study/tree/main/%EA%B5%AC%ED%98%84/%5B1026%5D%20%EB%B3%B4%EB%AC%BC)와 같이 Readme.md를 작성
 
