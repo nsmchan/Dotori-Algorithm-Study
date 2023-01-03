@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dotori%20Algorithm&fontSize=90)
 
-# Algoritm Study
+# Algoritm Study 
       
      
 ## :raised_hand: 참가인원  
