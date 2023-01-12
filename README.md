@@ -22,7 +22,7 @@
         [`프로그래머스`](https://programmers.co.kr/?utm_source=google&utm_medium=cpc&utm_campaign=brand_prgms_pc&gclid=CjwKCAjw_b6WBhAQEiwAp4HyICFsvajaE1xCWVrBBqKVblpj4NsVUuVLihtHSh3cQL4zwGvhaqX3ohoCvCQQAvD_BwE)
     
 * 알고리즘은 [분류](https://www.acmicpc.net/problem/tags)에서 각각 유형별로 풀도록 합니다 
-     
+      
       
  |주제|내용|
  |:---:|:---:|
@@ -78,7 +78,7 @@
 더 꾸며봐 태영아 zz
  
 더꾸미라고~
-
+ 
 싫다고~
 
 이쁘게좀해 돼지야 
