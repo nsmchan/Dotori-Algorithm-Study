@@ -41,7 +41,7 @@
          
 - 먼저 풀 경우 [Link](https://github.com/brsss123/Dotori-Algorithm-Study/tree/main/%EA%B5%AC%ED%98%84/%5B1026%5D%20%EB%B3%B4%EB%AC%BC)와 같이 Readme.md를 작성
 
- 
+  
 
 - 커밋규칙
 
