@@ -10,7 +10,7 @@
 * 윤태영  ![java](https://img.shields.io./badge/java-007396.svg?style=for-the-badfe&logo=java&logoColor=white)
 
 ## :fire: 궁극적 목표 :fire:
-
+ 
 **성공적 개발자 취업!!**
 
 ## :point_right: 진행방식 
