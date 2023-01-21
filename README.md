@@ -75,10 +75,5 @@
 ![김민찬's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsmchan&show_icons=true&theme=dark)   
 ![윤태영's GitHub stats](https://github-readme-stats.vercel.app/api?username=brsss123&show_icons=true&theme=dark)   
 
-더 꾸며봐 태영아 zz
- 
-더꾸미라고~
- 
-싫다고~
 
-이쁘게좀해 돼지야 
+윤태영 코테 부시자~
